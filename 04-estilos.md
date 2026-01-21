@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estilos y personalización visual
+title: Proyecto Final
 nav_order: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publicar en GitHub Pages
+title: Inicio
 nav_order: 2
 ---
 
