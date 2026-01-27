@@ -3,7 +3,7 @@
 layout: default
 title: Sistemas Embebidos
 parent: "Prácticas"
-nav_order: 1
+nav_order: 2
 ---
 # Sistemas Embebidos 
 Los Sistemas Embebidos son sistemas que se componen por hadware y software, diseñadaspara realizar una o más funciones específicas (programadas por el usuario). optimizados para tareas dedicadas en lugar de ser computadoras de propósito general. Se caracterizan por estar integrados en un producto, incluyendo procesadores, memoria y entradas/salidas.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inicio
-nav_order: 10
+nav_order: 1
 ---
 
 # Publicar sitio en GitHub Pages
